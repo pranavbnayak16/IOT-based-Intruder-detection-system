@@ -33,3 +33,5 @@ Software & Libraries:
 Language: Python
 
 Libraries: OpenCV (opencv-python)
+
+Face Recognition : DeepFace
